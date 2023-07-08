@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antasticantman&label=Profile%20views&color=0e75b6&style=flat" alt="antasticantman" /> </p>
 
-- 🔭 I’m currently working on **React and React Forms**
+- 🔭 I’m currently working on **Solving Algorithmic Problems**
 
-- 🌱 I’m currently learning **React and React Forms**
+- 🌱 I’m currently learning **Applied Computer Science**
 
 - 💬 Ask me about **Super heroes, coding, and anime and I might just blow you away**
 
