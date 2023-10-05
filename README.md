@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Algorithms and Data Structures**
 
-- 🌱 I just graduated from Bloomtech as a *Full Stack Web Developer**
+- 🌱 I just graduated from Bloomtech as a **Full Stack Web Developer**
 
 - 💬 Ask me about **Super heroes, coding, and anime and I might just blow you away**
 
